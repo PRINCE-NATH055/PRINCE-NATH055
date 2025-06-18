@@ -1,16 +1,51 @@
-## Hi there 👋
+## Technical Skills
 
-<!--
-**PRINCE-NATH055/PRINCE-NATH055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:**  
+C/C++, Python, Kotlin, SQL
 
-Here are some ideas to get you started:
+**Web Development:**  
+HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile Development:**  
+Android Studio, Kotlin
+
+**Tools & Platforms:**  
+Visual Studio Code, Postman, Microsoft Excel, Git
+
+**Core Concepts:**  
+Object-Oriented Programming (OOP), Data Structures & Algorithms
+
+**Machine Learning & AI:**  
+Deep Learning, PyTorch, OpenCV
+
+---
+
+## Notable Projects
+
+### Portfolio Website
+- A personal website showcasing skills and projects.
+- Built with **HTML**, **CSS**, and **JavaScript**.
+- Features include a downloadable CV, responsive design using Flexbox/Grid, and a dynamic contact form.
+
+### Traffic Safety Analysis
+- Developed a deep learning pipeline for traffic scene understanding using **BiSeNet** for semantic segmentation.
+- Computed **risk scores** and **cognitive load** using object proximity and custom logic.
+- Generated natural language safety reports to enhance interpretability.
+
+### BookInfo (Android App)
+- Created an Android application using **Kotlin** with multi-fragment architecture.
+- Integrated **REST APIs** to fetch and display book information.
+- Used **ViewModel** and **Fragment transactions** for UI flow management.
+
+---
+
+## Achievements & Interests
+
+- 2nd Place – Inter-School Instrumental Competition  
+- 3rd Place – Regional Level Gita Chanting Competition  
+- 2nd Place – DSA Annual Swimming Competition, Silchar  
+- Concept Presenter – *Green Booth*, Innowave Entrepreneurship Competition, KIIT  
+- Content Writer – NSS, School of Computer Engineering, KIIT  
+- Intermediate proficiency in playing Tabla  
+
+---
