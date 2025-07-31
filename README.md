@@ -22,10 +22,10 @@ Deep Learning, PyTorch, OpenCV
 
 ## Notable Projects
 
-### Portfolio Website
-- A personal website showcasing skills and projects.
-- Built with **HTML**, **CSS**, and **JavaScript**.
-- Features include a downloadable CV, responsive design using Flexbox/Grid, and a dynamic contact form.
+### Sentiment Analysis
+- Built sentiment analysis model on Amazon Alexa reviews using NLP preprocessing and CountVectorizer.
+- Trained and tuned classifiers (Random Forest, XGBoost, Decision Tree) with cross-validation.
+- Conducted EDA and visualized insights using WordCloud, Seaborn, and Matplotlib.
 
 ### Traffic Safety Analysis
 - Developed a deep learning pipeline for traffic scene understanding using **BiSeNet** for semantic segmentation.
